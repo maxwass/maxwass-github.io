@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tufte-css on Max Wasserman</title>
+    <link>https://maxwass.github.io/categories/tufte-css/</link>
+    <description>Recent content in tufte-css on Max Wasserman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Sep 2022 13:56:01 -0800</lastBuildDate><atom:link href="https://maxwass.github.io/categories/tufte-css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Operator Overlading in Probability</title>
+      <link>https://maxwass.github.io/post/prob_operator_overload/</link>
+      <pubDate>Sun, 18 Sep 2022 13:56:01 -0800</pubDate>
+      
+      <guid>https://maxwass.github.io/post/prob_operator_overload/</guid>
+      <description>Mulitple ways of interpreting summation operation.
+Fix input x, then everything on rhs becomes scalar Keep LHS a variable, then RHS are vectors/tables By correctly interpreting the conventions of the sum/product over factors, the two are identical.
+Assume all examples below uses discrete random variables with $K$ states.
+Marginalization and Sum: Fundamental Examples:</description>
+    </item>
+    
+  </channel>
+</rss>
